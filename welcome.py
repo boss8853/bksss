@@ -48,7 +48,7 @@ async def crates(ctx):
      
 
 
-client.run("NjU4NjMzMzY4NDQ2OTU5NjM2.XgCmKA.9PUly4ghxJOOeGDhRlRy23SN4fQ")
+client.run("NjQ0MjM0OTM4NDM4MTIzNTQx.XgG92w.jG_VsZE8dTHofj30uK7WxdT8SAI")
 
 
 
